@@ -1,5 +1,6 @@
 # ChineseBosonNER
-中文命名实体识别，实体抽取，pytorch，BiLSTM+CRF
+中文命名实体识别，实体抽取，pytorch，BiLSTM+CRF3
+
 
 ######################################
        BosonNLP命名实体识别数据
